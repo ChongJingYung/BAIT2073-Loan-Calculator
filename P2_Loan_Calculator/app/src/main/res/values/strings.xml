@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">P2_Loan_Calculator</string>
+    <string name="car_price">Price</string>
+    <string name="down_payment">Down Payment</string>
+    <string name="interest_rate">Interest Rate</string>
+    <string name="loan_period">Loan Period (Year) </string>
+    <string name="monthly_payment">Monthly Payment (RM) </string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string-array name="period">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+</resources>
